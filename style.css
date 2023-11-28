@@ -1,0 +1,26 @@
+
+p{
+    background-color: blue;
+
+}
+#paragraf
+{
+    background-color: red;
+}
+.Text {
+    background-color: blueviolet;
+}
+.text-description {
+    border: 5px solid greenyellow;
+}
+
+
+p{
+    background-color: red;
+}
+p{
+    background-color: green;
+}
+.first{
+    background-color: black;
+}
